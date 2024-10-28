@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.cart-favorites-container {
+    display: flex;
+}
+
+.input-field {
+    width: 20vw;
+}
+
+.icon {
+    height: 20px;
+    width: 20px;
+}
+
+.search-bar {
+    /* text-align: right; */
+}

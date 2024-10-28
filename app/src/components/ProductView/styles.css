@@ -1,0 +1,50 @@
+.is-hidden {
+    display: none;
+}
+
+.product-title {
+    width: 20vw;
+    margin-left: 2vw;
+    padding-top: 2vh;
+}
+
+.product-view-container {
+    width: 65vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    background-color: #e0e0e0;
+}
+
+.image {
+    width: 40vw;
+    height: 25vh
+}
+
+.description {
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.product-actions-view {
+    display: flex;
+    justify-content: end;
+}
+
+.info-view {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.price-discount {
+    display: flex;
+    align-items: center;
+}
+
+.price {
+    margin-right: 15px;
+}
+
+.product-rating {
+    margin-right: 15px;
+}

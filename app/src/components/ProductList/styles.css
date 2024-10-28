@@ -1,0 +1,8 @@
+.product-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-view {
+    /* width: 100vw; */
+}

@@ -1,0 +1,10 @@
+.products-container {
+    display: flex;
+    justify-content: center;
+}
+
+.total {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
